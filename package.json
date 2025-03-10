@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@jiohjung98/hi": "^0.0.1"
+    "@jiohjung98/hi": "~0.0.1"
   }
 }
